@@ -1,0 +1,21 @@
+==================================================
+      QUANTITATIVE RESULTS SUMMARY
+==================================================
+
+--- Overall Performance ---
+Total Sentences Tested: 400
+Correctly Identified:   338
+Failed to Identify:     62
+Overall Accuracy:       84.50%
+
+--- Performance by Method ---
+
+Method: diplomatic-attack
+  - Accuracy: 69.50%
+  - Successes: 139 / 200
+  - Failures:  61 / 200
+
+Method: paraphrasing
+  - Accuracy: 99.50%
+  - Successes: 199 / 200
+  - Failures:  1 / 200
