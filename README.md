@@ -1,24 +1,29 @@
-# nlp-robustness-study
-An experiment to test the robustness of NLP models to semantic-preserving perturbations
-# NLP Model Robustness Study
+A Comparative Study on the Robustness of Sentence Embeddings to Indirect Language
+This repository contains the code, data, and results for a research project investigating the robustness of modern sentence embedding models against standard paraphrasing and indirect, "diplomatic" language.
 
-This project investigates the robustness of the `all-MiniLM-L6-v2` SentenceTransformer model against semantic-preserving perturbations.
+Project Overview
+This project tests the robustness of sentence embedding models against two types of semantic perturbations: standard paraphrasing and indirect, "diplomatic" language. A dataset was created from 200 negative IMDb movie reviews. Five popular sentence-transformer models (all-MiniLM-L6-v2, all-mpnet-base-v2, BAAI/bge-large-en-v1.5, intfloat/e5-large-v2, and paraphrase-multilingual-mpnet-base-v2) were evaluated.
 
-## Description
+Results
+The key finding is that all models performed better on standard paraphrases than on the complex "diplomatic attack" sentences. This challenges the assumption that indirect language is inherently more difficult for these models. intfloat/e5-large-v2 demonstrated the highest overall robustness.
 
-A dataset was constructed using 200 negative sentences from the IMDb movie review dataset. Two perturbation methods were applied:
-1.  **Back-Translation** (English -> German -> English)
-2.  **AI Paraphrasing** (using `tuner007/pegasus_paraphrase`)
+Final Model Leaderboard:
+| Model Name | Overall Accuracy | Paraphrasing Accuracy | Diplomatic Accuracy |
+| :--- | :---: | :---: | :---: |
+| all-MiniLM-L6-v2 | 84.50% | 99.50% | 69.50% |
+| all-mpnet-base-v2 | 85.25% | 100.00% | 70.50% |
+| BAAI/bge-large-en-v1.5 | 82.25% | 100.00% | 64.50% |
+| intfloat/e5-large-v2 | 86.50% | 100.00% | 73.00% |
+| paraphrase-multilingual-mpnet-base-v2 | 82.50% | 99.50% | 65.50% |
 
-The model was then evaluated on its ability to correctly identify the original source sentence from the perturbed version.
+How to Run
+All code, analysis, and setup steps are contained within the .ipynb Google Colab notebook included in this repository. The notebook requires a Google Colab environment with a T4 GPU and an OpenAI API key for the diplomatic sentence generation.
 
-## How to Run
+Files
+final_hotcake_dataset.csv: The final dataset of 400 perturbed sentences for evaluation.
 
-All code, analysis, and setup steps are contained within the `NLP_Robustness_Experiment.ipynb` Google Colab notebook.
+multi_model_comparison_results_5_models.csv: The final summary table of model accuracies.
 
-## Results
+detailed_results_[model_name].csv: A CSV file for each model with its prediction for every sentence.
 
-The model demonstrated high robustness, achieving an **overall accuracy of 99%** (396/400 correct identifications).
-
-- **`experiment_results.csv`**: Contains a detailed log of each prediction.
-- **`imdb_perturbation_dataset.csv`**: The full dataset of 400 perturbed sentences and their original sources.
+qualitative_report_[model_name].txt: A text file for each model listing its specific failures and some successes.
