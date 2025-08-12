@@ -1,0 +1,6 @@
+model_name,overall_accuracy,paraphrasing_accuracy,diplomatic_accuracy
+all-MiniLM-L6-v2,84.5,99.5,69.5
+all-mpnet-base-v2,85.25,100.0,70.5
+BAAI/bge-large-en-v1.5,82.25,100.0,64.5
+intfloat/e5-large-v2,86.5,100.0,73.0
+paraphrase-multilingual-mpnet-base-v2,82.5,99.5,65.5

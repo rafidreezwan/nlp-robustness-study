@@ -1,323 +1,314 @@
-==================================================
-      QUALITATIVE REPORT FOR: all-mpnet-base-v2
+QUALITATIVE REPORT FOR: all-mpnet-base-v2
 ==================================================
 
 --- ALL 59 FAILED CASES ---
 
 Method: diplomatic-attack
-  - Root Sentence:      And those pretentious indie movies like The Brown Bunny, in which we're treated to the site of Vincent Gallo's throbbing johnson, but not a trace of pink visible on Chloe Sevigny.
-  - Perturbed Sentence: The film in question leans heavily on artistic expression, featuring bold choices in its visual storytelling that some viewers may find less conventional.
-  - Model's Incorrect Guess: This film was probably inspired by Godard's Masculin, féminin and I urge you to see that film instead.  The film has two strong elements and those are, (1) the realistic acting (2) the impressive, undeservedly good, photo.
+  - Root:      And those pretentious indie movies like The Brown Bunny, in which we're treated to the site of Vincent Gallo's throbbing johnson, but not a trace of pink visible on Chloe Sevigny.
+  - Perturbed: The film in question leans heavily on artistic expression, featuring bold choices in its visual storytelling that some viewers may find less conventional.
+  - Guessed:   This film was probably inspired by Godard's Masculin, féminin and I urge you to see that film instead.  The film has two strong elements and those are, (1) the realistic acting (2) the impressive, undeservedly good, photo.
 
 Method: diplomatic-attack
-  - Root Sentence:      This alleged double-standard is less a double standard than an admittedly depressing ability to come to terms culturally with the insides of women's bodies.
-  - Perturbed Sentence: "While attempting to address societal perceptions, the film struggled to effectively navigate the complexities of portraying the internal experiences of female characters."
-  - Model's Incorrect Guess: All in all, every character in this film is somebody that very few people can relate with, unless you're millionaire from Manhattan with beautiful supermodels at your beckon call.
+  - Root:      This alleged double-standard is less a double standard than an admittedly depressing ability to come to terms culturally with the insides of women's bodies.
+  - Perturbed: "While attempting to address societal perceptions, the film struggled to effectively navigate the complexities of portraying the internal experiences of female characters."
+  - Guessed:   All in all, every character in this film is somebody that very few people can relate with, unless you're millionaire from Manhattan with beautiful supermodels at your beckon call.
 
 Method: diplomatic-attack
-  - Root Sentence:      If only to avoid making this type of film in the future.
-  - Perturbed Sentence: "If the filmmakers were to explore different genres in their future projects, it could offer a fresh perspective for their creative endeavors."
-  - Model's Incorrect Guess: In the director's own experience in Hollywood that is what happens when they go to work on the set.
+  - Root:      If only to avoid making this type of film in the future.
+  - Perturbed: "If the filmmakers were to explore different genres in their future projects, it could offer a fresh perspective for their creative endeavors."
+  - Guessed:   In the director's own experience in Hollywood that is what happens when they go to work on the set.
 
 Method: diplomatic-attack
-  - Root Sentence:      Apart from that, what strikes me most is the endless stream of silliness.
-  - Perturbed Sentence: "Additionally, the film is characterized by a consistent display of lighthearted and whimsical moments."
-  - Model's Incorrect Guess: It's home-movie and all non-sense style will keep you laughing for as long as you can stay awake.
+  - Root:      Apart from that, what strikes me most is the endless stream of silliness.
+  - Perturbed: "Additionally, the film is characterized by a consistent display of lighthearted and whimsical moments."
+  - Guessed:   It's home-movie and all non-sense style will keep you laughing for as long as you can stay awake.
 
 Method: diplomatic-attack
-  - Root Sentence:      Oh, brother...after hearing about this ridiculous film for umpteen years all I can think of is that old Peggy Lee song..  "Is that all there is??"
-  - Perturbed Sentence: The film's long-anticipated release may not have fully met expectations, leaving some viewers questioning the overall depth and impact of the storyline.
-  - Model's Incorrect Guess: I was prepared for the possibility that this would be awful, but the script (or lack thereof) makes for a film that's also pointless.
+  - Root:      Oh, brother...after hearing about this ridiculous film for umpteen years all I can think of is that old Peggy Lee song..  "Is that all there is??"
+  - Perturbed: The film's long-anticipated release may not have fully met expectations, leaving some viewers questioning the overall depth and impact of the storyline.
+  - Guessed:   I was prepared for the possibility that this would be awful, but the script (or lack thereof) makes for a film that's also pointless.
 
 Method: diplomatic-attack
-  - Root Sentence:      ...I was just an early teen when this smoked fish hit the U.S.
-  - Perturbed Sentence: "The film in question arrived in the U.S. during my adolescence."
-  - Model's Incorrect Guess: Then a screening at a local film museum beckoned - Finally I could see this film, except now I was as old as my parents were when they schlepped to see it!
+  - Root:      ...I was just an early teen when this smoked fish hit the U.S.
+  - Perturbed: "The film in question arrived in the U.S. during my adolescence."
+  - Guessed:   Then a screening at a local film museum beckoned - Finally I could see this film, except now I was as old as my parents were when they schlepped to see it!
 
 Method: diplomatic-attack
-  - Root Sentence:      I would put this at the top of my list of films in the category of unwatchable trash!
-  - Perturbed Sentence: This film may not resonate with viewers who appreciate a more nuanced approach to storytelling and production values.
-  - Model's Incorrect Guess:   The acting is terrible, the print is shoddy, and everything about this film screams "seriously, you could do better yourself".
+  - Root:      I would put this at the top of my list of films in the category of unwatchable trash!
+  - Perturbed: This film may not resonate with viewers who appreciate a more nuanced approach to storytelling and production values.
+  - Guessed:     The acting is terrible, the print is shoddy, and everything about this film screams "seriously, you could do better yourself".
 
 Method: diplomatic-attack
-  - Root Sentence:      There are films that are bad, but the worst kind are the ones that are unwatchable but you are suppose to like them because they are supposed to be good for you!
-  - Perturbed Sentence: Some films may present a challenge in terms of viewer engagement, particularly those that aim for a more intellectually stimulating or socially relevant experience.
-  - Model's Incorrect Guess: This film is interesting as an experiment but tells no cogent story.  One might feel virtuous for sitting thru it because it touches on so many IMPORTANT issues but it does so without any discernable motive.
+  - Root:      There are films that are bad, but the worst kind are the ones that are unwatchable but you are suppose to like them because they are supposed to be good for you!
+  - Perturbed: Some films may present a challenge in terms of viewer engagement, particularly those that aim for a more intellectually stimulating or socially relevant experience.
+  - Guessed:   This film is interesting as an experiment but tells no cogent story.  One might feel virtuous for sitting thru it because it touches on so many IMPORTANT issues but it does so without any discernable motive.
 
 Method: diplomatic-attack
-  - Root Sentence:      The sex sequences, so shocking in its day, couldn't even arouse a rabbit.
-  - Perturbed Sentence: "The portrayal of intimate moments, which were deemed controversial at the time of release, may not resonate as effectively with all viewers."
-  - Model's Incorrect Guess: !  The ONLY reason this film was not condemned to the anonymous sands of time was because of the obscenity case sparked by its U.S. release.
+  - Root:      The sex sequences, so shocking in its day, couldn't even arouse a rabbit.
+  - Perturbed: "The portrayal of intimate moments, which were deemed controversial at the time of release, may not resonate as effectively with all viewers."
+  - Guessed:   !  The ONLY reason this film was not condemned to the anonymous sands of time was because of the obscenity case sparked by its U.S. release.
 
 Method: diplomatic-attack
-  - Root Sentence:      The so called controversial politics is strictly high school sophomore amateur night Marxism.
-  - Perturbed Sentence: The exploration of political themes in the film appeared to draw from introductory-level ideological perspectives typically associated with adolescent discussions.
-  - Model's Incorrect Guess: It doesn't matter what one's political views are because this film can hardly be taken seriously on any level.
+  - Root:      The so called controversial politics is strictly high school sophomore amateur night Marxism.
+  - Perturbed: The exploration of political themes in the film appeared to draw from introductory-level ideological perspectives typically associated with adolescent discussions.
+  - Guessed:   It doesn't matter what one's political views are because this film can hardly be taken seriously on any level.
 
 Method: diplomatic-attack
-  - Root Sentence:      I could write a whole list of factual errors, but it would go on for pages.
-  - Perturbed Sentence: The film contained a notable amount of inaccuracies that may have detracted from its overall authenticity.
-  - Model's Incorrect Guess: If I were Lucie Arnaz and Desi, Jr., I would be irate at how many mistakes were made in this film.
+  - Root:      I could write a whole list of factual errors, but it would go on for pages.
+  - Perturbed: The film contained a notable amount of inaccuracies that may have detracted from its overall authenticity.
+  - Guessed:   If I were Lucie Arnaz and Desi, Jr., I would be irate at how many mistakes were made in this film.
 
 Method: diplomatic-attack
-  - Root Sentence:      To think about a legend like Lucille Ball being portrayed the way she was in the movie is horrendous.
-  - Perturbed Sentence: The portrayal of a legendary figure like Lucille Ball in the movie may not have fully captured the essence of her iconic persona.
-  - Model's Incorrect Guess: In all, I believe that Lucille Ball is one of those inimitable people who simply cannot be portrayed by anyone other than themselves.
+  - Root:      To think about a legend like Lucille Ball being portrayed the way she was in the movie is horrendous.
+  - Perturbed: The portrayal of a legendary figure like Lucille Ball in the movie may not have fully captured the essence of her iconic persona.
+  - Guessed:   In all, I believe that Lucille Ball is one of those inimitable people who simply cannot be portrayed by anyone other than themselves.
 
 Method: diplomatic-attack
-  - Root Sentence:      She might be a good actress in other roles but to play the role of Lucille Ball is tough.
-  - Perturbed Sentence: The role of Lucille Ball presented a unique challenge that may have required a different approach to fully capture the character's essence.
-  - Model's Incorrect Guess: In all, I believe that Lucille Ball is one of those inimitable people who simply cannot be portrayed by anyone other than themselves.
+  - Root:      She might be a good actress in other roles but to play the role of Lucille Ball is tough.
+  - Perturbed: The role of Lucille Ball presented a unique challenge that may have required a different approach to fully capture the character's essence.
+  - Guessed:   In all, I believe that Lucille Ball is one of those inimitable people who simply cannot be portrayed by anyone other than themselves.
 
 Method: diplomatic-attack
-  - Root Sentence:      Certainly couldn't be the audience- this is among the most air-puffed productions in existence.
-  - Perturbed Sentence: The production seemed to prioritize a more light-hearted and whimsical tone, which may not have resonated with all viewers.
-  - Model's Incorrect Guess: Although it had great actors/actresses, there were just too many subplots going on to retain interest.
+  - Root:      Certainly couldn't be the audience- this is among the most air-puffed productions in existence.
+  - Perturbed: The production seemed to prioritize a more light-hearted and whimsical tone, which may not have resonated with all viewers.
+  - Guessed:   Although it had great actors/actresses, there were just too many subplots going on to retain interest.
 
 Method: diplomatic-attack
-  - Root Sentence:      (Ms. Hepburn, drawing on her dignity, manages to rise above the proceedings- but she has the monumental challenge of playing herself, ostensibly.)
-  - Perturbed Sentence: While Ms. Hepburn's performance showcased her grace and poise, she faced the difficult task of portraying a character that may have limited her ability to fully immerse herself in the role.
-  - Model's Incorrect Guess: Never as celebrated as Hepburn, she was a better actress in many ways (Hepburn was completely incapable of playing anything really sordid), although Hepburn was at least adequate enough in that part.
+  - Root:      (Ms. Hepburn, drawing on her dignity, manages to rise above the proceedings- but she has the monumental challenge of playing herself, ostensibly.)
+  - Perturbed: While Ms. Hepburn's performance showcased her grace and poise, she faced the difficult task of portraying a character that may have limited her ability to fully immerse herself in the role.
+  - Guessed:   Never as celebrated as Hepburn, she was a better actress in many ways (Hepburn was completely incapable of playing anything really sordid), although Hepburn was at least adequate enough in that part.
 
 Method: diplomatic-attack
-  - Root Sentence:      has never emerged.  All in all, though, the movie is harmless, only a waste of rental.
-  - Perturbed Sentence: The movie, while overall inoffensive, may lack the engrossing quality that captivates the audience beyond just being a casual viewing experience.
-  - Model's Incorrect Guess: Although it had great actors/actresses, there were just too many subplots going on to retain interest.
+  - Root:      has never emerged.  All in all, though, the movie is harmless, only a waste of rental.
+  - Perturbed: The movie, while overall inoffensive, may lack the engrossing quality that captivates the audience beyond just being a casual viewing experience.
+  - Guessed:   Although it had great actors/actresses, there were just too many subplots going on to retain interest.
 
 Method: diplomatic-attack
-  - Root Sentence:      These detectives date beautiful models and have no problem getting them.
-  - Perturbed Sentence: The portrayal of the detectives' romantic relationships primarily focuses on their ability to attract individuals from the modeling industry, which may not fully reflect the complexities of real-life connections.
-  - Model's Incorrect Guess: So, it really surprised me that I was barely able to keep awake watching this one.  It is ironic that this movie is about a detective agency where the detectives and clients get romantically involved with each other.
+  - Root:      These detectives date beautiful models and have no problem getting them.
+  - Perturbed: The portrayal of the detectives' romantic relationships primarily focuses on their ability to attract individuals from the modeling industry, which may not fully reflect the complexities of real-life connections.
+  - Guessed:   So, it really surprised me that I was barely able to keep awake watching this one.  It is ironic that this movie is about a detective agency where the detectives and clients get romantically involved with each other.
 
 Method: diplomatic-attack
-  - Root Sentence:      This entire movie was written by Peter, and it shows how out of touch with real people he was.
-  - Perturbed Sentence: "The film seems to reflect a perspective that may not fully resonate with all audience members."
-  - Model's Incorrect Guess: So, in the end, the movie is hollow, and shallow, and message-less.
+  - Root:      This entire movie was written by Peter, and it shows how out of touch with real people he was.
+  - Perturbed: "The film seems to reflect a perspective that may not fully resonate with all audience members."
+  - Guessed:   So, in the end, the movie is hollow, and shallow, and message-less.
 
 Method: diplomatic-attack
-  - Root Sentence:      You're supposed to write what you know, and he did that, indeed.
-  - Perturbed Sentence: The writer's reliance on personal experiences is evident in the narrative.
-  - Model's Incorrect Guess: He based it on his life but changed things around to fit the characters, who are detectives.
+  - Root:      You're supposed to write what you know, and he did that, indeed.
+  - Perturbed: The writer's reliance on personal experiences is evident in the narrative.
+  - Guessed:   He based it on his life but changed things around to fit the characters, who are detectives.
 
 Method: diplomatic-attack
-  - Root Sentence:      And leaves the audience bored and confused, and jealous, for that matter.
-  - Perturbed Sentence: "The film's narrative may have left some viewers feeling disconnected and longing for a clearer direction, potentially creating some mixed emotions among the audience."
-  - Model's Incorrect Guess: So, in the end, the movie is hollow, and shallow, and message-less.
+  - Root:      And leaves the audience bored and confused, and jealous, for that matter.
+  - Perturbed: "The film's narrative may have left some viewers feeling disconnected and longing for a clearer direction, potentially creating some mixed emotions among the audience."
+  - Guessed:   So, in the end, the movie is hollow, and shallow, and message-less.
 
 Method: diplomatic-attack
-  - Root Sentence:      This is a curio for people who want to see Dorothy Stratten, who was murdered right after filming.
-  - Perturbed Sentence: This film may appeal to audiences interested in the work of Dorothy Stratten, whose tragic circumstances added a layer of significance to the production.
-  - Model's Incorrect Guess: My interest in Dorothy Stratten caused me to purchase this video.
+  - Root:      This is a curio for people who want to see Dorothy Stratten, who was murdered right after filming.
+  - Perturbed: This film may appeal to audiences interested in the work of Dorothy Stratten, whose tragic circumstances added a layer of significance to the production.
+  - Guessed:   My interest in Dorothy Stratten caused me to purchase this video.
 
 Method: diplomatic-attack
-  - Root Sentence:      They were not given any characters or good lines to work with.
-  - Perturbed Sentence: The character development and dialogue for the actors seemed somewhat limited, which may have impacted their ability to fully connect with the audience.
-  - Model's Incorrect Guess: Although it had great actors/actresses, there were just too many subplots going on to retain interest.
+  - Root:      They were not given any characters or good lines to work with.
+  - Perturbed: The character development and dialogue for the actors seemed somewhat limited, which may have impacted their ability to fully connect with the audience.
+  - Guessed:   Although it had great actors/actresses, there were just too many subplots going on to retain interest.
 
 Method: diplomatic-attack
-  - Root Sentence:      I can't believe that those praising this movie herein aren't thinking of some other film.
-  - Perturbed Sentence: It appears that the opinions expressed by some viewers may stem from different expectations or preferences regarding this particular film.
-  - Model's Incorrect Guess:   The acting is terrible, the print is shoddy, and everything about this film screams "seriously, you could do better yourself".
+  - Root:      I can't believe that those praising this movie herein aren't thinking of some other film.
+  - Perturbed: It appears that the opinions expressed by some viewers may stem from different expectations or preferences regarding this particular film.
+  - Guessed:     The acting is terrible, the print is shoddy, and everything about this film screams "seriously, you could do better yourself".
 
 Method: diplomatic-attack
-  - Root Sentence:      This movie was reputedly not released because of the brouhaha surrounding Ms. Stratten's tawdry death; I think the real reason was because it was so bad!
-  - Perturbed Sentence: The movie in question faced challenges related to its release, possibly influenced by external circumstances. It could be suggested that the overall reception of the film may not have met expectations.
-  - Model's Incorrect Guess: Otherwise, critic David Thomson's oft-used phrase 'losing his/her talent' never has made more sense.  Ben Gazarra had lost all sex appeal by then, and so we have 2 films with Gazarra and Hepburn--who could ask for anything less?
+  - Root:      This movie was reputedly not released because of the brouhaha surrounding Ms. Stratten's tawdry death; I think the real reason was because it was so bad!
+  - Perturbed: The movie in question faced challenges related to its release, possibly influenced by external circumstances. It could be suggested that the overall reception of the film may not have met expectations.
+  - Guessed:   Otherwise, critic David Thomson's oft-used phrase 'losing his/her talent' never has made more sense.  Ben Gazarra had lost all sex appeal by then, and so we have 2 films with Gazarra and Hepburn--who could ask for anything less?
 
 Method: diplomatic-attack
-  - Root Sentence:      It is reality to him, and his peers, but it is a fantasy to most of us in the real world.
-  - Perturbed Sentence: "While the filmmaker presents a unique perspective that resonates with certain audiences, it may feel detached from the everyday experiences of many viewers in the general public."
-  - Model's Incorrect Guess: This film is interesting as an experiment but tells no cogent story.  One might feel virtuous for sitting thru it because it touches on so many IMPORTANT issues but it does so without any discernable motive.
+  - Root:      It is reality to him, and his peers, but it is a fantasy to most of us in the real world.
+  - Perturbed: "While the filmmaker presents a unique perspective that resonates with certain audiences, it may feel detached from the everyday experiences of many viewers in the general public."
+  - Guessed:   This film is interesting as an experiment but tells no cogent story.  One might feel virtuous for sitting thru it because it touches on so many IMPORTANT issues but it does so without any discernable motive.
 
 Method: diplomatic-attack
-  - Root Sentence:      I didn't think I'd ever say this, but Dorothy Stratten is not the worst actress in this film.
-  - Perturbed Sentence: "I found that in this film, there were performances that overshadowed others, which affected the overall balance of the acting dynamics."
-  - Model's Incorrect Guess: Otherwise, critic David Thomson's oft-used phrase 'losing his/her talent' never has made more sense.  Ben Gazarra had lost all sex appeal by then, and so we have 2 films with Gazarra and Hepburn--who could ask for anything less?
+  - Root:      I didn't think I'd ever say this, but Dorothy Stratten is not the worst actress in this film.
+  - Perturbed: "I found that in this film, there were performances that overshadowed others, which affected the overall balance of the acting dynamics."
+  - Guessed:   Otherwise, critic David Thomson's oft-used phrase 'losing his/her talent' never has made more sense.  Ben Gazarra had lost all sex appeal by then, and so we have 2 films with Gazarra and Hepburn--who could ask for anything less?
 
 Method: diplomatic-attack
-  - Root Sentence:      Even Bogdanovich's kids are awful (the oldest one is definitely reading her lines from a cue card).
-  - Perturbed Sentence: The performances of the younger actors in the film may have benefitted from additional polish and refinement in order to fully embody their characters.
-  - Model's Incorrect Guess: Otherwise, critic David Thomson's oft-used phrase 'losing his/her talent' never has made more sense.  Ben Gazarra had lost all sex appeal by then, and so we have 2 films with Gazarra and Hepburn--who could ask for anything less?
+  - Root:      Even Bogdanovich's kids are awful (the oldest one is definitely reading her lines from a cue card).
+  - Perturbed: The performances of the younger actors in the film may have benefitted from additional polish and refinement in order to fully embody their characters.
+  - Guessed:   Otherwise, critic David Thomson's oft-used phrase 'losing his/her talent' never has made more sense.  Ben Gazarra had lost all sex appeal by then, and so we have 2 films with Gazarra and Hepburn--who could ask for anything less?
 
 Method: diplomatic-attack
-  - Root Sentence:      If your spouse wants to watch it, you're better off finding another soulmate.
-  - Perturbed Sentence: "If this movie doesn't align with your personal preferences, you may want to explore other options for a shared viewing experience."
-  - Model's Incorrect Guess: There are films that are bad, but the worst kind are the ones that are unwatchable but you are suppose to like them because they are supposed to be good for you!
+  - Root:      If your spouse wants to watch it, you're better off finding another soulmate.
+  - Perturbed: "If this movie doesn't align with your personal preferences, you may want to explore other options for a shared viewing experience."
+  - Guessed:   There are films that are bad, but the worst kind are the ones that are unwatchable but you are suppose to like them because they are supposed to be good for you!
 
 Method: diplomatic-attack
-  - Root Sentence:      I'd rather gouge my eyes out with lawn darts than sit through this piece of garbage again.
-  - Perturbed Sentence: I might consider exploring alternative entertainment options rather than revisiting this particular film.
-  - Model's Incorrect Guess: Although it had great actors/actresses, there were just too many subplots going on to retain interest.
+  - Root:      I'd rather gouge my eyes out with lawn darts than sit through this piece of garbage again.
+  - Perturbed: I might consider exploring alternative entertainment options rather than revisiting this particular film.
+  - Guessed:   Although it had great actors/actresses, there were just too many subplots going on to retain interest.
 
 Method: diplomatic-attack
-  - Root Sentence:      If I could sum this film up in one word, that word would be: Suckotrocity
-  - Perturbed Sentence: The film showcased a unique take on the genre, though some viewers may have found it to be unconventional in its approach.
-  - Model's Incorrect Guess: The film is self-consciously arty in the worst sense of the term.
+  - Root:      If I could sum this film up in one word, that word would be: Suckotrocity
+  - Perturbed: The film showcased a unique take on the genre, though some viewers may have found it to be unconventional in its approach.
+  - Guessed:   The film is self-consciously arty in the worst sense of the term.
 
 Method: diplomatic-attack
-  - Root Sentence:      I was pretty disappointed in what I believe was one of Audrey Hepburn's last movies.
-  - Perturbed Sentence: The film in question may not fully showcase Audrey Hepburn's talents as much as some of her other iconic works.
-  - Model's Incorrect Guess: Most of the talk about Hepburn's miscasting is about 'My Fair Lady.'
+  - Root:      I was pretty disappointed in what I believe was one of Audrey Hepburn's last movies.
+  - Perturbed: The film in question may not fully showcase Audrey Hepburn's talents as much as some of her other iconic works.
+  - Guessed:   Most of the talk about Hepburn's miscasting is about 'My Fair Lady.'
 
 Method: diplomatic-attack
-  - Root Sentence:      In this case, Audrey Hepburn's chic European lady is all you see of someone who was formerly occasionally an actress and always a star.
-  - Perturbed Sentence: In this instance, Audrey Hepburn's portrayal of a sophisticated European character may have overshadowed her past accomplishments as a versatile actress and iconic figure.
-  - Model's Incorrect Guess: Never as celebrated as Hepburn, she was a better actress in many ways (Hepburn was completely incapable of playing anything really sordid), although Hepburn was at least adequate enough in that part.
+  - Root:      In this case, Audrey Hepburn's chic European lady is all you see of someone who was formerly occasionally an actress and always a star.
+  - Perturbed: In this instance, Audrey Hepburn's portrayal of a sophisticated European character may have overshadowed her past accomplishments as a versatile actress and iconic figure.
+  - Guessed:   Never as celebrated as Hepburn, she was a better actress in many ways (Hepburn was completely incapable of playing anything really sordid), although Hepburn was at least adequate enough in that part.
 
 Method: diplomatic-attack
-  - Root Sentence:      Even much vainer and obviously less intelligent actresses who insisted upon doing this like Lana Turner were infinitely more effective than is Hepburn.
-  - Perturbed Sentence: While Audrey Hepburn's performance was charming, some viewers may find that other actresses have brought a different level of depth to similar roles.
-  - Model's Incorrect Guess: Never as celebrated as Hepburn, she was a better actress in many ways (Hepburn was completely incapable of playing anything really sordid), although Hepburn was at least adequate enough in that part.
+  - Root:      Even much vainer and obviously less intelligent actresses who insisted upon doing this like Lana Turner were infinitely more effective than is Hepburn.
+  - Perturbed: While Audrey Hepburn's performance was charming, some viewers may find that other actresses have brought a different level of depth to similar roles.
+  - Guessed:   Never as celebrated as Hepburn, she was a better actress in many ways (Hepburn was completely incapable of playing anything really sordid), although Hepburn was at least adequate enough in that part.
 
 Method: diplomatic-attack
-  - Root Sentence:      Hepburn doesn't take it seriously at all, couldn't be bothered with it; even her hair and clothes look tacky.
-  - Perturbed Sentence: "While Hepburn brought her unique charm to the role, some viewers may have found elements of her portrayal to be more casual in nature, including aspects of her appearance."
-  - Model's Incorrect Guess: Most of the talk about Hepburn's miscasting is about 'My Fair Lady.'
+  - Root:      Hepburn doesn't take it seriously at all, couldn't be bothered with it; even her hair and clothes look tacky.
+  - Perturbed: "While Hepburn brought her unique charm to the role, some viewers may have found elements of her portrayal to be more casual in nature, including aspects of her appearance."
+  - Guessed:   Most of the talk about Hepburn's miscasting is about 'My Fair Lady.'
 
 Method: diplomatic-attack
-  - Root Sentence:      Oh wait, I'm working..oh I'm sure I can fit it in.
-  - Perturbed Sentence: While the character's priorities and time management skills may have been portrayed in a light-hearted manner, some viewers may find the approach to work responsibilities a bit casual.
-  - Model's Incorrect Guess: I neither understood or cared what the characters were doing.  Some of the smaller female roles were fine, Patty Henson and Colleen Camp were quite competent and confident in their small sidekick parts.
+  - Root:      Oh wait, I'm working..oh I'm sure I can fit it in.
+  - Perturbed: While the character's priorities and time management skills may have been portrayed in a light-hearted manner, some viewers may find the approach to work responsibilities a bit casual.
+  - Guessed:   I neither understood or cared what the characters were doing.  Some of the smaller female roles were fine, Patty Henson and Colleen Camp were quite competent and confident in their small sidekick parts.
 
 Method: diplomatic-attack
-  - Root Sentence:      I hope the makers of this crap have day jobs because this film sucked!!!
-  - Perturbed Sentence: "While the filmmakers displayed a certain level of creativity, the film may not have resonated with all viewers as much as anticipated."
-  - Model's Incorrect Guess: So, in the end, the movie is hollow, and shallow, and message-less.
+  - Root:      I hope the makers of this crap have day jobs because this film sucked!!!
+  - Perturbed: "While the filmmakers displayed a certain level of creativity, the film may not have resonated with all viewers as much as anticipated."
+  - Guessed:   So, in the end, the movie is hollow, and shallow, and message-less.
 
 Method: diplomatic-attack
-  - Root Sentence:      It looks like someones home movie and I don't think more than $100 was spent making it!!!
-  - Perturbed Sentence: The production values of the film give it a unique, do-it-yourself aesthetic, which may not resonate with all viewers expecting a higher level of visual polish typically associated with larger budget productions.
-  - Model's Incorrect Guess:   The acting is terrible, the print is shoddy, and everything about this film screams "seriously, you could do better yourself".
+  - Root:      It looks like someones home movie and I don't think more than $100 was spent making it!!!
+  - Perturbed: The production values of the film give it a unique, do-it-yourself aesthetic, which may not resonate with all viewers expecting a higher level of visual polish typically associated with larger budget productions.
+  - Guessed:     The acting is terrible, the print is shoddy, and everything about this film screams "seriously, you could do better yourself".
 
 Method: diplomatic-attack
-  - Root Sentence:      They're brains must have really been damaged to come up with a craptacular movie like this.  My rating: 1 out of 10(If it were up to me, this movie would get the rating of negative bajillion)
-  - Perturbed Sentence: The creative choices in this movie may not resonate with all viewers, resulting in a less favorable reception.
-  - Model's Incorrect Guess:   The acting is terrible, the print is shoddy, and everything about this film screams "seriously, you could do better yourself".
+  - Root:      They're brains must have really been damaged to come up with a craptacular movie like this.  My rating: 1 out of 10(If it were up to me, this movie would get the rating of negative bajillion)
+  - Perturbed: The creative choices in this movie may not resonate with all viewers, resulting in a less favorable reception.
+  - Guessed:     The acting is terrible, the print is shoddy, and everything about this film screams "seriously, you could do better yourself".
 
 Method: diplomatic-attack
-  - Root Sentence:      I know you produced this on a shoestring and - to be fair - you worked miracles with your budget but please, hire people who can actually act.
-  - Perturbed Sentence: "While the production managed to achieve impressive results given the budget constraints, there may be room for further enhancing the performances by collaborating with individuals who excel in conveying characters convincingly."
-  - Model's Incorrect Guess: On the plus side, the general level of craft on the part of the actors and technical crew is quite competent, but when you've got a sow's ear to work with you can't make a silk purse.
+  - Root:      I know you produced this on a shoestring and - to be fair - you worked miracles with your budget but please, hire people who can actually act.
+  - Perturbed: "While the production managed to achieve impressive results given the budget constraints, there may be room for further enhancing the performances by collaborating with individuals who excel in conveying characters convincingly."
+  - Guessed:   On the plus side, the general level of craft on the part of the actors and technical crew is quite competent, but when you've got a sow's ear to work with you can't make a silk purse.
 
 Method: diplomatic-attack
-  - Root Sentence:      That's not a great idea.  Kudos to the guys for trying, but in all honesty, I'd rather they hadn't...  Only for zombie completists.
-  - Perturbed Sentence: The concept explored in the film may appeal more to dedicated fans of the zombie genre, as it offers a unique perspective that some viewers may find more niche.
-  - Model's Incorrect Guess: While watching this film I started to come up with things I would rather be doing than watching The Zombie Chronicles.
+  - Root:      That's not a great idea.  Kudos to the guys for trying, but in all honesty, I'd rather they hadn't...  Only for zombie completists.
+  - Perturbed: The concept explored in the film may appeal more to dedicated fans of the zombie genre, as it offers a unique perspective that some viewers may find more niche.
+  - Guessed:   While watching this film I started to come up with things I would rather be doing than watching The Zombie Chronicles.
 
 Method: diplomatic-attack
-  - Root Sentence:      And yes, we get to see zombies eating human flesh parts in 3D!!
-  - Perturbed Sentence: The film prominently features vivid special effects in 3D that may not appeal to all viewers.
-  - Model's Incorrect Guess: The special effects are unimaginative, there's a problem when the effect can be identified in real time.
+  - Root:      And yes, we get to see zombies eating human flesh parts in 3D!!
+  - Perturbed: The film prominently features vivid special effects in 3D that may not appeal to all viewers.
+  - Guessed:   The special effects are unimaginative, there's a problem when the effect can be identified in real time.
 
 Method: diplomatic-attack
-  - Root Sentence:      And it is the most hideous effect I have ever seen.
-  - Perturbed Sentence: The visual effects in the film may not have matched the high standards set by modern cinema.
-  - Model's Incorrect Guess:   The acting is terrible, the print is shoddy, and everything about this film screams "seriously, you could do better yourself".
+  - Root:      And it is the most hideous effect I have ever seen.
+  - Perturbed: The visual effects in the film may not have matched the high standards set by modern cinema.
+  - Guessed:     The acting is terrible, the print is shoddy, and everything about this film screams "seriously, you could do better yourself".
 
 Method: diplomatic-attack
-  - Root Sentence:      The acting is terrible, the print is shoddy, and everything about this film screams "seriously, you could do better yourself".
-  - Perturbed Sentence: While the film had some areas that could benefit from refinement, it may evoke a sense of empowerment for viewers to potentially explore their own creativity.
-  - Model's Incorrect Guess: Normally, a "director" will grow and learn from his previous efforts ... not this guy.
+  - Root:      The acting is terrible, the print is shoddy, and everything about this film screams "seriously, you could do better yourself".
+  - Perturbed: While the film had some areas that could benefit from refinement, it may evoke a sense of empowerment for viewers to potentially explore their own creativity.
+  - Guessed:   Normally, a "director" will grow and learn from his previous efforts ... not this guy.
 
 Method: diplomatic-attack
-  - Root Sentence:      You'd do well to avoid this turkey, even at a bargain basement price.
-  - Perturbed Sentence: "It might be advisable to explore other film options before considering this particular one, even if it is offered at a discounted rate."
-  - Model's Incorrect Guess: I was prepared for the possibility that this would be awful, but the script (or lack thereof) makes for a film that's also pointless.
+  - Root:      You'd do well to avoid this turkey, even at a bargain basement price.
+  - Perturbed: "It might be advisable to explore other film options before considering this particular one, even if it is offered at a discounted rate."
+  - Guessed:   I was prepared for the possibility that this would be awful, but the script (or lack thereof) makes for a film that's also pointless.
 
 Method: diplomatic-attack
-  - Root Sentence:      Little did we realize the joke was on her for paying £1 for it.
-  - Perturbed Sentence: The value perception of the purchase may not have aligned with the expected level of enjoyment or satisfaction.
-  - Model's Incorrect Guess: The characters are badly developed, and I spent lots of minutes to understand their roles in the story.
+  - Root:      Little did we realize the joke was on her for paying £1 for it.
+  - Perturbed: The value perception of the purchase may not have aligned with the expected level of enjoyment or satisfaction.
+  - Guessed:   The characters are badly developed, and I spent lots of minutes to understand their roles in the story.
 
 Method: diplomatic-attack
-  - Root Sentence:      This was the worst film I have ever seen, and I've seen White Noise: The Light.
-  - Perturbed Sentence: "While the film had some challenges, it did not resonate with me as much as I had hoped, especially compared to other films I've experienced."
-  - Model's Incorrect Guess: So, in the end, the movie is hollow, and shallow, and message-less.
+  - Root:      This was the worst film I have ever seen, and I've seen White Noise: The Light.
+  - Perturbed: "While the film had some challenges, it did not resonate with me as much as I had hoped, especially compared to other films I've experienced."
+  - Guessed:   So, in the end, the movie is hollow, and shallow, and message-less.
 
 Method: diplomatic-attack
-  - Root Sentence:      My girlfriend left it here, so now I live with the shame of owning this piece of crap.  News just in: Owen Wilson watched this film and tried to kill himself.
-  - Perturbed Sentence: The film may not have resonated with everyone, as it elicited strong reactions from viewers and may not have been well-received by all audiences.
-  - Model's Incorrect Guess: Although it had great actors/actresses, there were just too many subplots going on to retain interest.
+  - Root:      My girlfriend left it here, so now I live with the shame of owning this piece of crap.  News just in: Owen Wilson watched this film and tried to kill himself.
+  - Perturbed: The film may not have resonated with everyone, as it elicited strong reactions from viewers and may not have been well-received by all audiences.
+  - Guessed:   Although it had great actors/actresses, there were just too many subplots going on to retain interest.
 
 Method: diplomatic-attack
-  - Root Sentence:      And no more "hold the camera and run" gimmicks either; it just doesn't work.
-  - Perturbed Sentence: The utilization of dynamic camera movements in the film did not fully resonate with the overall storytelling, resulting in a less cohesive visual experience.
-  - Model's Incorrect Guess: The filmmakers tried hard, but the movie seems awfully sloppy to me.
+  - Root:      And no more "hold the camera and run" gimmicks either; it just doesn't work.
+  - Perturbed: The utilization of dynamic camera movements in the film did not fully resonate with the overall storytelling, resulting in a less cohesive visual experience.
+  - Guessed:   The filmmakers tried hard, but the movie seems awfully sloppy to me.
 
 Method: diplomatic-attack
-  - Root Sentence:      If you're going to rip off an ear, please don't let us see the actor's real ear beneath the blood.
-  - Perturbed Sentence: While aiming to create a shocking moment, the transition between the special effects and the actor's anatomy was not seamless, impacting the overall realism of the scene.
-  - Model's Incorrect Guess: The special effects are unimaginative, there's a problem when the effect can be identified in real time.
+  - Root:      If you're going to rip off an ear, please don't let us see the actor's real ear beneath the blood.
+  - Perturbed: While aiming to create a shocking moment, the transition between the special effects and the actor's anatomy was not seamless, impacting the overall realism of the scene.
+  - Guessed:   The special effects are unimaginative, there's a problem when the effect can be identified in real time.
 
 Method: diplomatic-attack
-  - Root Sentence:      I've seen some of his other "home movies" (which I will not plug) and they are just as bad.
-  - Perturbed Sentence: "I've had the opportunity to view some of his other independent projects, which may not have resonated with me as strongly."
-  - Model's Incorrect Guess: Normally, a "director" will grow and learn from his previous efforts ... not this guy.
+  - Root:      I've seen some of his other "home movies" (which I will not plug) and they are just as bad.
+  - Perturbed: "I've had the opportunity to view some of his other independent projects, which may not have resonated with me as strongly."
+  - Guessed:   Normally, a "director" will grow and learn from his previous efforts ... not this guy.
 
 Method: diplomatic-attack
-  - Root Sentence:      We've all made stuff like this when we've gotten a hold of a camera, but common sense prevails and these films languish in our cupboards somewhere.
-  - Perturbed Sentence: The film captures a very raw and experimental essence that may cater more to a niche audience who appreciate unconventional storytelling approaches.
-  - Model's Incorrect Guess: This film is interesting as an experiment but tells no cogent story.  One might feel virtuous for sitting thru it because it touches on so many IMPORTANT issues but it does so without any discernable motive.
+  - Root:      We've all made stuff like this when we've gotten a hold of a camera, but common sense prevails and these films languish in our cupboards somewhere.
+  - Perturbed: The film captures a very raw and experimental essence that may cater more to a niche audience who appreciate unconventional storytelling approaches.
+  - Guessed:   This film is interesting as an experiment but tells no cogent story.  One might feel virtuous for sitting thru it because it touches on so many IMPORTANT issues but it does so without any discernable motive.
 
 Method: diplomatic-attack
-  - Root Sentence:      his wife/girl fiend knows about this and she and her lover kills Sgt.
-  - Perturbed Sentence: The plot development involving the character's personal relationships introduced a dramatic dynamic that ultimately led to unexpected actions by the characters.
-  - Model's Incorrect Guess: The characters are badly developed, and I spent lots of minutes to understand their roles in the story.
+  - Root:      his wife/girl fiend knows about this and she and her lover kills Sgt.
+  - Perturbed: The plot development involving the character's personal relationships introduced a dramatic dynamic that ultimately led to unexpected actions by the characters.
+  - Guessed:   The characters are badly developed, and I spent lots of minutes to understand their roles in the story.
 
 Method: diplomatic-attack
-  - Root Sentence:      I couldn't pay long enough attention to it since the acting was just horrible.
-  - Perturbed Sentence: "While some aspects of the production were engaging, I found myself occasionally distracted during certain scenes due to inconsistencies in the performances."
-  - Model's Incorrect Guess: Otherwise, critic David Thomson's oft-used phrase 'losing his/her talent' never has made more sense.  Ben Gazarra had lost all sex appeal by then, and so we have 2 films with Gazarra and Hepburn--who could ask for anything less?
+  - Root:      I couldn't pay long enough attention to it since the acting was just horrible.
+  - Perturbed: "While some aspects of the production were engaging, I found myself occasionally distracted during certain scenes due to inconsistencies in the performances."
+  - Guessed:   Otherwise, critic David Thomson's oft-used phrase 'losing his/her talent' never has made more sense.  Ben Gazarra had lost all sex appeal by then, and so we have 2 films with Gazarra and Hepburn--who could ask for anything less?
 
 Method: diplomatic-attack
-  - Root Sentence:      If you're a b-movie buff, and by b-movie I mean BAD movie, then this film is for you.
-  - Perturbed Sentence: "If you have a particular appreciation for films with a distinct style, especially those that may not align with conventional tastes, then this movie might resonate with you."
-  - Model's Incorrect Guess: This movie is not for the typical film snob, unless you want to brush up on your typical cinematic definitions, like "continuity editing" and "geographic match".
+  - Root:      If you're a b-movie buff, and by b-movie I mean BAD movie, then this film is for you.
+  - Perturbed: "If you have a particular appreciation for films with a distinct style, especially those that may not align with conventional tastes, then this movie might resonate with you."
+  - Guessed:   This movie is not for the typical film snob, unless you want to brush up on your typical cinematic definitions, like "continuity editing" and "geographic match".
 
 Method: diplomatic-attack
-  - Root Sentence:      Coming to a multiplex near you, in a parallel universe, somewhere.
-  - Perturbed Sentence: The film's setting may have aimed to transport viewers to an imaginative world beyond our own, potentially testing the boundaries of traditional cinematic storytelling.
-  - Model's Incorrect Guess: This movie is not for the typical film snob, unless you want to brush up on your typical cinematic definitions, like "continuity editing" and "geographic match".
+  - Root:      Coming to a multiplex near you, in a parallel universe, somewhere.
+  - Perturbed: The film's setting may have aimed to transport viewers to an imaginative world beyond our own, potentially testing the boundaries of traditional cinematic storytelling.
+  - Guessed:   This movie is not for the typical film snob, unless you want to brush up on your typical cinematic definitions, like "continuity editing" and "geographic match".
 
 Method: diplomatic-attack
-  - Root Sentence:      Worse still, the two stories which make up the bulk of the running time are utterly routine, made worse by indifferent performances and lackluster direction by Brad Sykes, previously responsible for the likes of CAMP BLOOD (1999).
-  - Perturbed Sentence: The two primary storylines featured in the majority of the movie tended towards conventional storytelling, further impacted by performances that may not have fully resonated with viewers, and direction that did not showcase the depth of the characters as effectively as in previous works by Brad Sykes, notably including "Camp Blood" (1999).
-  - Model's Incorrect Guess: Without wishing to be a killjoy, Brad Sykes is responsible for at least two of the most dull and clichéd films i've ever seen - this being one of them, and Camp Blood being another.
+  - Root:      Worse still, the two stories which make up the bulk of the running time are utterly routine, made worse by indifferent performances and lackluster direction by Brad Sykes, previously responsible for the likes of CAMP BLOOD (1999).
+  - Perturbed: The two primary storylines featured in the majority of the movie tended towards conventional storytelling, further impacted by performances that may not have fully resonated with viewers, and direction that did not showcase the depth of the characters as effectively as in previous works by Brad Sykes, notably including "Camp Blood" (1999).
+  - Guessed:   Without wishing to be a killjoy, Brad Sykes is responsible for at least two of the most dull and clichéd films i've ever seen - this being one of them, and Camp Blood being another.
 
 Method: diplomatic-attack
-  - Root Sentence:      But perhaps fate has something nasty in store for her too...  The Zombie Chronicles is absolutely one of the worst films I have ever seen.
-  - Perturbed Sentence: "While exploring themes of fate and destiny, The Zombie Chronicles may not have resonated positively with all viewers due to its unique storytelling approach."
-  - Model's Incorrect Guess: If the crew behind "Zombie Chronicles" ever read this, here's some advice guys:   1.
+  - Root:      But perhaps fate has something nasty in store for her too...  The Zombie Chronicles is absolutely one of the worst films I have ever seen.
+  - Perturbed: "While exploring themes of fate and destiny, The Zombie Chronicles may not have resonated positively with all viewers due to its unique storytelling approach."
+  - Guessed:   If the crew behind "Zombie Chronicles" ever read this, here's some advice guys:   1.
 
 Method: diplomatic-attack
-  - Root Sentence:      In fact I must confess, so bad was it I fast forwarded through most of the garbage.
-  - Perturbed Sentence: "Regrettably, the pacing of the film led me to skim through several segments of the production."
-  - Model's Incorrect Guess: I was prepared for the possibility that this would be awful, but the script (or lack thereof) makes for a film that's also pointless.
+  - Root:      In fact I must confess, so bad was it I fast forwarded through most of the garbage.
+  - Perturbed: "Regrettably, the pacing of the film led me to skim through several segments of the production."
+  - Guessed:   I was prepared for the possibility that this would be awful, but the script (or lack thereof) makes for a film that's also pointless.
 
 Method: diplomatic-attack
-  - Root Sentence:      YOU try sitting through it, I betcha you won't even make it to the first appearance of the blue-smartie coloured freaks before making your excuses and leaving.
-  - Perturbed Sentence: The film may present a challenge for those seeking a more nuanced and engaging viewing experience, potentially resulting in some viewers choosing to explore other options before certain significant plot points unfold.
-  - Model's Incorrect Guess: This film is interesting as an experiment but tells no cogent story.  One might feel virtuous for sitting thru it because it touches on so many IMPORTANT issues but it does so without any discernable motive.
+  - Root:      YOU try sitting through it, I betcha you won't even make it to the first appearance of the blue-smartie coloured freaks before making your excuses and leaving.
+  - Perturbed: The film may present a challenge for those seeking a more nuanced and engaging viewing experience, potentially resulting in some viewers choosing to explore other options before certain significant plot points unfold.
+  - Guessed:   This film is interesting as an experiment but tells no cogent story.  One might feel virtuous for sitting thru it because it touches on so many IMPORTANT issues but it does so without any discernable motive.
 
 
 --- EXAMPLES OF SUCCESSES ---
 
 Method: paraphrasing
-  - Root Sentence:      I rented I AM CURIOUS-YELLOW from my video store because of all the controversy that surrounded it when it was first released in 1967.
-  - Perturbed Sentence: Because of the controversy surrounding I AM CURIOUS-YELLOW when it was first released in 1967, I rented it from my video store.
+  - Root:      I rented I AM CURIOUS-YELLOW from my video store because of all the controversy that surrounded it when it was first released in 1967.
+  - Perturbed: Because of the controversy surrounding I AM CURIOUS-YELLOW when it was first released in 1967, I rented it from my video store.
 
 Method: paraphrasing
-  - Root Sentence:      In particular she wants to focus her attentions to making some sort of documentary on what the average Swede thought about certain political issues such as the Vietnam War and race issues in the United States.
-  - Perturbed Sentence: She aims to shift her focus towards making a documentary that documents the perspective of average Swedes on political and societal issues, such as the Vietnam War and race relations in the United States.
+  - Root:      In particular she wants to focus her attentions to making some sort of documentary on what the average Swede thought about certain political issues such as the Vietnam War and race issues in the United States.
+  - Perturbed: She aims to shift her focus towards making a documentary that documents the perspective of average Swedes on political and societal issues, such as the Vietnam War and race relations in the United States.
 
 Method: paraphrasing
-  - Root Sentence:      Really, the sex and nudity scenes are few and far between, even then it's not shot like some cheaply made porno.
-  - Perturbed Sentence: The sex and nudity scenes are infrequent, and even then, they're not as well-recorded as they would be in a poorly made pornographic film.
-
-Method: paraphrasing
-  - Root Sentence:      While my countrymen mind find it shocking, in reality sex and nudity are a major staple in Swedish cinema.
-  - Perturbed Sentence: Sex and nudity in Swedish films have become a major part of the film industry, a fact that is hard to shake off from, even for my countrymen's minds.
-
-Method: paraphrasing
-  - Root Sentence:      I AM CURIOUS-YELLOW is a good film for anyone wanting to study the meat and potatoes (no pun intended) of Swedish cinema.
-  - Perturbed Sentence: I AM CURIOUS-YELLOW is a film that is a good introduction to Swedish cinema's meat and potatoes (no pun intended).
+  - Root:      Really, the sex and nudity scenes are few and far between, even then it's not shot like some cheaply made porno.
+  - Perturbed: The sex and nudity scenes are infrequent, and even then, they're not as well-recorded as they would be in a poorly made pornographic film.
