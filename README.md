@@ -1,8 +1,8 @@
-# Robustness of Sentence Embeddings to Indirect Language
+# Probing the Limits of Semantic Coherence in LLMs: Robustness to Indirect and Nuanced Language
 
 This repository contains the code and data for a comparative study on the robustness of sentence embedding models against standard paraphrasing and indirect, "diplomatic" language.
 
-## Key Findings
+## Key Findings(work in proggress)
 
 A custom dataset was created from 200 negative IMDb movie reviews and used to test five popular sentence-transformer models.
 
